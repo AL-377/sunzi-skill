@@ -126,7 +126,7 @@ sunzi-skill/
 
 - 孙武——两千五百年前写下六千字，至今照亮无数人的决策
 - 曹操、杜牧、梅尧臣——历代注家让兵法活了两千年
-- `maoxuan-skill`——本项目的结构灵感来源
+- [maoxuan-skill](https://github.com/leezythu/maoxuan-skill)——本项目的结构灵感来源
 
 ## 许可
 
